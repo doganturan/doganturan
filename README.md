@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Doğan Turan
 
-### 🌟 Fullstack Engineer | MERN Stack Developer 
+### 🌟 Fullstack Engineer 
 
 I am a passionate Full-stack Web Developer with over 2 years of experience in creating dynamic and user-oriented applications. My expertise lies in the **MERN Stack** and crafting seamless user experiences through innovative web technologies. I thrive in fast-paced projects and enjoy working collaboratively to deliver outstanding results.
 
