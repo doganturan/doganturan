@@ -8,9 +8,9 @@ I am a passionate Full-stack Web Developer with over 2 years of experience in cr
 
 ## 🛠️ Technical Skills
 **Frontend Technologies:**
-- HTML5, CSS3, JavaScript, React, Redux
-- Tailwind CSS, Bootstrap, Material UI
-- Next.js
+- HTML5, CSS3, JavaScript, 
+- Tailwind CSS, Bootstrap, Material UI, ShadcnUI
+- Next.js, React.js, Redux
 
 **Backend Technologies:**
 - Node.js, Express.js
