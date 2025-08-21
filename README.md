@@ -14,7 +14,7 @@ I am a passionate Full-stack Web Developer with over 2 years of experience in cr
 
 **Backend Technologies:**
 - Node.js, Express.js
-- MongoDB, MySQL
+- MongoDB, MySQL, PostgreSQL
 
 ---
 
